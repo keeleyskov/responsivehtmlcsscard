@@ -102,6 +102,7 @@ body {
     padding: 20px;
     border-radius: 15px;
     margin: 20px;
+    box-shadow: 0px 20px 20px var(--dark-blue);
 }
 
 .proceed-button a {
@@ -130,6 +131,10 @@ body {
     transition: ease-in-out;
     transition-duration: 0.2sß;
 
+}
+
+.change-button {
+    color: var(--bright-blue);
 }
 
 .change-button:hover {
