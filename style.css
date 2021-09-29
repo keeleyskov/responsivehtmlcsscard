@@ -138,7 +138,7 @@ body {
 }
 
 .change-button:hover {
-    color: var(--bright-blue);
+    color: var(--dark-blue);
     text-decoration: none;
     transition: ease-in-out;
     transition-duration: 0.2s;
